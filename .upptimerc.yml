@@ -22,7 +22,7 @@ sites:
   - name: Restart Studio
     url: https://restartstudio.it
   - name: Veneto Bikers
-    url: https://venetobikers.it
+    url: https://venetobikers.it 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
