@@ -40,7 +40,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /JustWareUpptime
   name: Websites Status Page | Just Ware SRL
-  logoUrl: https://justware.it/wp-content/uploads/2024/07/cropped-Logo.png
+  logoUrl: https://raw.githubusercontent.com/JustWareSRL/JustWareUpptime/refs/heads/master/assets/cropped-Logo.png
   theme: night
   navbar:
     - title: Website
