@@ -39,10 +39,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /JustWareUpptime
-  favicon: https://justware.it/wp-content/uploads/2024/07/cropped-Logo.png
-  logoUrl: https://justware.it/wp-content/uploads/2024/07/Logo.png
   name: Just Ware - Websites Status Page
-  theme: dark
+  favicon: https://justware.it/wp-content/uploads/2024/07/cropped-Logo.png
+  faviconSvg: https://justware.it/wp-content/uploads/2024/07/cropped-Logo.png
+  theme: night
   navbar:
     - title: Status
       href: /
