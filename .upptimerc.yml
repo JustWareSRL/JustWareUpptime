@@ -52,5 +52,8 @@ status-website:
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 
+i18n:
+  footer: POWERED BY JUST WARE SRL
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
