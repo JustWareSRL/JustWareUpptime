@@ -49,9 +49,6 @@ status-website:
     - title: More
       href: https://linktr.ee/justware.it
 
-skipDescriptionUpdate: true
-skipTopicsUpdate: true
-
 i18n:
   footer: POWERED BY JUST WARE SRL
 
