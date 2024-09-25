@@ -45,8 +45,6 @@ status-website:
   navbar:
     - title: Website
       href: https://justware.it/
-    - title: Support
-      href: https://justware.it/supporto/
     - title: More
       href: https://linktr.ee/justware.it
 
