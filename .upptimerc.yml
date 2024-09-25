@@ -44,6 +44,10 @@ status-website:
   navbar:
     - title: Website
       href: https://justware.it/
+    - title: Support
+      href: https://justware.it/supporto/
+    - title: More
+      href: https://linktr.ee/justware.it
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
