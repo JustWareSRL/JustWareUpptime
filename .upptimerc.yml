@@ -39,11 +39,11 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /JustWareUpptime
+  logoUrl: https://github.com/JustWareSRL/JustWareUpptime/blob/master/assets/LogoOrizzontale.png
   name: Websites Status Page | Just Ware SRL
-  logoUrl: https://example.com/LogoOrizzontale.png
-  favicon: https://example.com/Favicon.png
-  faviconSvg: https://example.com/Favicon.svg
-  theme: light
+  favicon: https://github.com/JustWareSRL/JustWareUpptime/blob/master/assets/Favicon.png
+  faviconSvg: https://github.com/JustWareSRL/JustWareUpptime/blob/master/assets/Favicon.png
+  theme: ocean
   navbar:
     - title: Website
       href: https://justware.it/
