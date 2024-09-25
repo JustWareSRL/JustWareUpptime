@@ -49,5 +49,8 @@ status-website:
     - title: More
       href: https://linktr.ee/justware.it
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
