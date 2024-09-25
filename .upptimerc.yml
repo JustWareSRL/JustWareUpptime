@@ -39,15 +39,14 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /JustWareUpptime
-  name: Just Ware - Websites Status Page
-  favicon: https://justware.it/wp-content/uploads/2024/07/cropped-Logo.png
-  faviconSvg: https://justware.it/wp-content/uploads/2024/07/cropped-Logo.png
-  theme: night
+  name: Websites Status Page | Just Ware SRL
+  logoUrl: https://example.com/LogoOrizzontale.png
+  favicon: https://example.com/Favicon.png
+  faviconSvg: https://example.com/Favicon.svg
+  theme: light
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://justware.it/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
