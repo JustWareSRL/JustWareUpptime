@@ -41,6 +41,7 @@ status-website:
   baseUrl: /JustWareUpptime
   name: Websites Status Page | Just Ware SRL
   logoUrl: https://raw.githubusercontent.com/JustWareSRL/JustWareUpptime/refs/heads/master/assets/cropped-Logo.png
+  favicon: https://raw.githubusercontent.com/JustWareSRL/JustWareUpptime/refs/heads/master/assets/cropped-Logo.png
   theme: night
   navbar:
     - title: Website
